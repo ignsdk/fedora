@@ -1,0 +1,1 @@
+{"name":"IGNSDK For Fedora","tagline":"","body":"# IGNSDK For Fedora\r\n## Install\r\n~~~bash\r\n$ cd /etc/yum.repos.d\r\n$ sudo wget http://download.opensuse.org/repositories/home:/anak10thn:/6/Fedora_21/home:anak10thn:6.repo\r\n$ sudo yum install ignsdk ignsdk-devtools\r\n~~~\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
